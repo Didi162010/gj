@@ -1,13 +1,13 @@
 #First commit line#
 import random
-print("Welcome to this Python Application")
+print("Welcome to this Python Application!")
 print("What do you want this application to do?")
 print("1. Add two numbers")
 print("2. Print a random number")
 print("3. Print a random word")
 print("4. Multiply two numbers")
 
-input = input("Enter your choice: ")
+input = input("Enter your choice:- ")
 
 match input:
     case "1":
